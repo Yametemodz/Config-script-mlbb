@@ -1,7 +1,11 @@
 # CONFIGMLBB
+
 ## NEW UPDATE V3
 
-### COMMAND
+### COMMAND 
+```html
+<div class="code-container">
+    <pre><code id="code-snippet">console.log("
 pkg update && upgrade
 
 pkg install git
@@ -18,5 +22,13 @@ pip install unzip
 
 git clone https://github.com/Yametemodz/Config-script-mlbb.git
 
-python3 config-script.py
+python3 config-script.py"
 
+);</code></pre>
+    <button class="copy-button" data-clipboard-target="#code-snippet">Copy</button>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+<script>
+    new ClipboardJS('.copy-button');
+</script>
