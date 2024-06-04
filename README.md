@@ -25,5 +25,5 @@
 
 ## PASSWORD IN THE VIDEO 🔒
 
-[![Subscribe and support](https://www.youtube.com/@Katutsgaming18)](https://www.youtube.com/channel/UC2e9nvVUGfL7zN2MmHc1vPA)
+[![Subscribe and support](https://www.youtube.com/@Katutsgaming18)]([https://www.youtube.com/channel/UC2e9nvVUGfL7zN2MmHc1vPA](https://www.youtube.com/@Katutsgaming18))
 
