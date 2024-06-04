@@ -25,4 +25,4 @@
 
 ## PASSWORD IN THE VIDEO 
 
-![link](https://www.youtube.com/@Katutsgaming18)
+.[![!Subscribe and support ](https://www.youtube.com/@Katutsgaming18)]
