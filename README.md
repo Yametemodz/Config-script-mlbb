@@ -23,6 +23,5 @@
 [![How actually Process the installing of config to mobile legends?](https://j.top4top.io/m_30777u0za0.mp4)](https://j.top4top.io/m_30777u0za0.mp4)
 
 ## PASSWORD IN THE VIDEO 🔒
-
-[![Subscribe and support](https://www.youtube.com/@Katutsgaming18)]([https://www.youtube.com/@Katutsgaming18))
-
+[Subscribe and support]([https://www.youtube.com/@Katutsgaming18
+])
