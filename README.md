@@ -16,34 +16,9 @@
 | `git clone https://github.com/Yametemodz/Config-script-mlbb.git` |
 | `python3 config-script.py`                                    |
 
-### AUTO-COPY
+### Screenshot
 
-```html
-<div class="code-container">
-    <pre><code id="code-snippet">console.log("
-pkg update && upgrade
 
-pkg install git
 
-pkg install python 
 
-pkg install python3 
-
-pip install bs4
-
-pip install requests
-
-pip install unzip
-
-git clone https://github.com/Yametemodz/Config-script-mlbb.git
-
-python3 config-script.py"
-
-);</code></pre>
-    <button class="copy-button" data-clipboard-target="#code-snippet">Copy</button>
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-<script>
-    new ClipboardJS('.copy-button');
-</script>
+![How actually Process the installing?]("https://j.top4top.io/m_30777u0za0.mp4")
