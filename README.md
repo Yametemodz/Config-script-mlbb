@@ -16,9 +16,13 @@
 | `git clone https://github.com/Yametemodz/Config-script-mlbb.git` |
 | `python3 config-script.py`                                    |
 
-### Screenshot
+### Screen shots
+![screenshot](https://c.top4top.io/p_3077om56m0.jpg)
+
+
+### PROOF THAT LEGIT WORKINGS
 
 
 
 
-[![How actually Process the installing?](https://j.top4top.io/m_30777u0za0.mp4)](https://j.top4top.io/m_30777u0za0.mp4)
+[![How actually Process the installing of config to mobile legends?](https://j.top4top.io/m_30777u0za0.mp4)](https://j.top4top.io/m_30777u0za0.mp4)
